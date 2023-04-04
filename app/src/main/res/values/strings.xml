@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">lab5-radio</string>
+    <string name="default_station">Choose a station to play</string>
+    <string name="play">Play</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="vol_up">Up</string>
+    <string name="vol_down">Down</string>
+    <string name="vol_control">Volume Control</string>
+    <string name="station_one_name">WVOF: Fairfield University Radio</string>
+    <string name="station_one_url">http://fmstudio.fairfield.edu:8000/listen</string>
+    <string name="station_two_name">WNHU: University of New Haven Radio</string>
+    <string name="station_two_url">https://www.wnhu.org/livestream</string>
+    <string name="station_three_name">WMNR: Fine Arts Radio</string>
+    <string name="station_three_url">http://amber.streamguys.com:6050/live</string>
+    <string name="station_four_name">WFUV: New York Music Discovery</string>
+    <string name="station_four_url">https://onair.wfuv.org/onair-hi</string>
+    <string name="station_five_name">WWYZ: Country 92–5</string>
+    <string name="station_five_url">https://www.iheart.com/live/country–925–445/</string>
+    <string name="station_six_name">WZMX: HipHop and R&amp;B</string>
+    <string name="station_six_url">https://www.audacy.com/stations/hot937#</string>
+    <string name="station_seven_name">WYBC: The Rhythm of the City</string>
+    <string name="station_seven_url">http://playerservices.streamtheworld.com/api/livestream-redirect/WYBCFM.mp3</string>
+    <string name="station_eight_name">WRKI: i95 Rock</string>
+    <string name="station_eight_url">https://i95rock.com/listen-live/</string>
+    <string name="station_nine_name">WPLR: 99.1 PLR Rock</string>
+    <string name="station_nine_url">http://playerservices.streamtheworld.com/api/livestream-redirect/WPLRFM.mp3</string>
+    <string name="station_ten_name">WEZN: Star 99.9</string>
+    <string name="station_ten_url">http://playerservices.streamtheworld.com/api/livestream-redirect/WEZNFM.mp3</string>
+</resources>
